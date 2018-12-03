@@ -62,7 +62,7 @@ $("#add").click(function() {
     var songName = $("#song").val();
     var imageUrl = $("#image").val();
     var artistName = $("#artist").val();
-    var songLength = $("#songLength").val();
+    var songLength = $("#length").val();
     var link = $("#links").val();
 
     songs.push(songName);
