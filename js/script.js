@@ -11,7 +11,7 @@ var artists = [
 ];
 
 var images = [
-    "https://rnbmain-thisisrnb.netdna-ssl.com/wp-content/uploads/2018/04/Ella-Mai-Bood-Up-Vid.jpg;maxHeight=145;maxWidth=222",
+    "https://rnbmain-thisisrnb.netdna-ssl.com/wp-content/uploads/2018/04/Ella-Mai-Bood-Up-Vid.jpg",
     "https://i.ytimg.com/vi/KRaPykuwCiw/maxresdefault.jpg;maxHeight=145;maxWidth=222",
     "https://kpopcolorcodedlyrics.files.wordpress.com/2012/01/exo.jpg?w=809;maxHeight=145;maxWidth=222"
 ];
